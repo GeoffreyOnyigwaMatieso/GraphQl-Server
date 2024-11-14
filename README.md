@@ -41,8 +41,8 @@ This server is built with Node.js and Express, using Apollo Server to handle Gra
 4. Running the Server
      To start the server in development mode:
    ```
-   npm run dev
-    yarn dev
+   npm start
+    yarn start
    ```
    This will start the server on http://localhost:4000 and will automatically reload on changes.
 
